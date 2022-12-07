@@ -11,3 +11,18 @@ python3 run.py
 
 
 I will be adding a way to enter without the auth screen 
+
+
+To pull up a streamers live chat you have to do /streamer + streamername
+
+
+To exit out of streamers chat do ctrl + c
+
+
+To clear all text do /clear
+
+
+To quit the program do /quit
+
+
+The login in command does not work as of now but will be up within the next week
