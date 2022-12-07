@@ -7,7 +7,7 @@ Go to the directory that you cloned this in
 
 python3 run.py 
 
-
+________________________________________________________________
 
 
 I will be adding a way to enter without the auth screen 
@@ -26,3 +26,6 @@ To quit the program do /quit
 
 
 The login in command does not work as of now but will be up within the next week
+
+
+I will add a way to reply in chat witin the next week
